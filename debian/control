@@ -3,7 +3,7 @@ Section: misc
 Priority: extra
 Maintainer: Debian Middleware Maintainers <pkg-middleware-maintainers@lists.alioth.debian.org>
 Uploaders: Darryl L. Pierce <dpierce@redhat.com>
-Build-Depends: debhelper (>= 7), python (>= 2.6.6-3~), python-setuptools
+Build-Depends: debhelper (>= 7), python (>= 2.6.6-3~), python-setuptools, dh-python
 X-Python-Version: >= 2.6
 Standards-Version: 3.9.5
 Homepage: http://qpid.apache.org
