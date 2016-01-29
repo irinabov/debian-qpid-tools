@@ -1,3 +1,9 @@
+qpid-tools (0.32-1qpid+wily1) wily; urgency=medium
+
+  * Rebased on Qpid 0.32.
+
+ -- Irina Boverman <iboverma@redhat.com>  Fri, 29 Jan 2016 10:26:59 -0400
+
 qpid-tools (0.32-1qpid+testing1) trusty; urgency=medium
 
   * Rebased on Qpid 0.32.
